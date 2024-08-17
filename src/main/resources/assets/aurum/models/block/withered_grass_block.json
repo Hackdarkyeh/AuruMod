@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aurum:block/grassdim1bot",
+    "up": "aurum:block/grassdim1top",
+    "north": "aurum:block/grassdim1mid",
+    "east": "aurum:block/grassdim1mid",
+    "south": "aurum:block/grassdim1mid",
+    "west": "aurum:block/grassdim1mid",
+    "particle": "aurum:block/grassdim1bot"
+  },
+  "render_type": "solid"
+}
